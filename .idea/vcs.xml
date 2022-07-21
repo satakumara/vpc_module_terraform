@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tera_module" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/terraform" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/terraform/terraform_module" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/terraform_module" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/terraform_module/terra/terraform_module" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/terraform_module/terra/terraform_module/terraform_module" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/terraform_module/terraform_module" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vpc_module_terraform" vcs="Git" />
+  </component>
+</project>
